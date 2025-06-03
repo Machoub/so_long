@@ -29,7 +29,7 @@ You must render a map, handle keyboard input, and respect specific gameplay rule
 ---
 
 ## 📂 Project Structure
-
+```
 ├── Makefile
 ├── README.md
 ├── img_xpm
@@ -76,7 +76,7 @@ You must render a map, handle keyboard input, and respect specific gameplay rule
     │   └── move_utils.c
     ├── so_long.c
     └── so_long.h
-
+```
 ---
 
 ## 🧠 What I Learned
@@ -132,3 +132,7 @@ Unreachable collectibles or exit
 Memory allocation failure
 
 ---
+
+## 👨‍💻 Author
+**Mehdi Adel Achouba**  
+**42 Paris – Login: machouba**
