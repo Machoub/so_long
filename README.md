@@ -110,7 +110,7 @@ Example .ber map:
 1C0E11
 111111
 ```
-## ✅ The map must:
+✅ The map must:
 
 Be rectangular
 
