@@ -90,7 +90,7 @@ You must render a map, handle keyboard input, and respect specific gameplay rule
 
 ---
 
-## 🛠️ Build & Run
+🛠️ Build & Run
 
 ### Compile:
 ```
@@ -100,7 +100,7 @@ Run the game:
 ```
 ./so_long maps/map1.ber
 ```
-## 🧪 Map Format
+🧪 Map Format
 Example .ber map:
 
 ```
@@ -120,7 +120,7 @@ Contain 1 player, 1+ collectibles, and 1 exit
 
 ---
 
-## ❌ Error Handling
+❌ Error Handling
 The program exits gracefully in case of:
 
 Invalid or non-rectangular maps
