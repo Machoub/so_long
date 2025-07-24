@@ -104,11 +104,7 @@ Run the game:
 Example .ber map:
 
 ```
-111111
-1P0C01
-100001
-1C0E11
-111111
+![Screenshot](../Screenshot from 2025-07-24 14-34-53.png)
 ```
 ✅ The map must:
 
