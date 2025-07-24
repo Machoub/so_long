@@ -104,7 +104,7 @@ Run the game:
 Example .ber map:
 
 
-![Screenshot](../Screenshot%20from%202025-07-24%2014-34-53.png)
+![Screenshot](../Screenshot_from_2025-07-24_14-34-53.png)
 
 ✅ The map must:
 
