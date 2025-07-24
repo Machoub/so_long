@@ -103,9 +103,9 @@ Run the game:
 🧪 Map Format
 Example .ber map:
 
-```
+
 ![Screenshot](../Screenshot from 2025-07-24 14-34-53.png)
-```
+
 ✅ The map must:
 
 Be rectangular
